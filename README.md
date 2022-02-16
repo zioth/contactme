@@ -1,2 +1,2 @@
-# contactme
-A way to contact me outside my repositories!
+# Contact me!
+If you want to contact me outside my repositories, submit an issue to this one!
